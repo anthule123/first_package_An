@@ -8,5 +8,8 @@ app/cat_dog_lib.egg-info/top_level.txt
 app/cat_dog_lib/src/__init__.py
 app/cat_dog_lib/src/cat.py
 app/cat_dog_lib/src/dog.py
+app/cat_dog_lib/src/laboratory/__init__.py
+app/cat_dog_lib/src/laboratory/doctor.py
+app/cat_dog_lib/src/laboratory/machine.py
 app/cat_dog_lib/test/__init__.py
 app/cat_dog_lib/test/test_dog.py
