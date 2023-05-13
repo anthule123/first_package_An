@@ -6,3 +6,5 @@ dog.bark()
 
 cat = Cat('Garfield')
 cat.meow()
+
+from cat_dog_lib import laboratory
